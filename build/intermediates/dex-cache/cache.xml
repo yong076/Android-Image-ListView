@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/libs/universal-image-loader-1.2.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="46fa825d6c53c79b9386de8624673d3655dbed96">
+        <dex dex="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.2.1-605af6aa3b2d5b3d0fc2c298327c7ab9eb313740.jar" />
+    </item>
+    <item
+        jar="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/libs/universal-image-loader-1.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="46fa825d6c53c79b9386de8624673d3655dbed96">
+        <dex dex="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.2.1-605af6aa3b2d5b3d0fc2c298327c7ab9eb313740.jar" />
+    </item>
+
+</items>
