@@ -9,6 +9,13 @@
         <dex dex="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.2.1-605af6aa3b2d5b3d0fc2c298327c7ab9eb313740.jar" />
     </item>
     <item
+        jar="/Users/yong076/gdg-incheon/Android Image ListView/app/libs/universal-image-loader-1.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="46fa825d6c53c79b9386de8624673d3655dbed96">
+        <dex dex="/Users/yong076/gdg-incheon/Android Image ListView/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.2.1-41a2c3d4bae00428f0b1315b701b55bc5a947059.jar" />
+    </item>
+    <item
         jar="/Users/yong076/AndroidStudioProjects/Android Image ListView/app/libs/universal-image-loader-1.2.1.jar"
         jumboMode="false"
         revision="19.1.0"
