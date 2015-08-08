@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/grey" android:state_pressed="false" android:state_selected="false"/>
+    <item android:drawable="@color/blue" android:state_pressed="true"/>
+    <item android:drawable="@color/blue" android:state_pressed="false" android:state_selected="true"/>
+
+</selector><!-- From: file:/Users/yong076/gdg-incheon/Android%20Image%20ListView/app/src/main/res/drawable/list_bg.xml -->
